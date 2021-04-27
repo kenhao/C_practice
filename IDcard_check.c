@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 //name ID
-int id_num(char);
+int id_num(char);//身分證字號檢驗
 int main()
 {
     int num[11], y = 0, check;
